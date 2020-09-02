@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "bash_temp",
+      "setup": "",
+      "run": "bash temperature.sh",
+      "input": "32",
+      "output": "32.*F.*0.*C",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
