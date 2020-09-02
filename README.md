@@ -33,6 +33,7 @@ Write a bash script that provides a count of the number of (1) files and (2) sub
 Recall our team assignments [defined here](https://github.com/me701/homework2_teams/). 
 Do the following:
 
+  0. Fork your partner's repository and clone it.
   1. Add your partner's (the person after you) repository as a remote
   2. Fetch and checkout your partner's `master` branch and use it to create a new branch named `dev` in your own, local repository
   3. Modify your partner's `temperature.sh` script to output the temperature in Kelvin, too.
