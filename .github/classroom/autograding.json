@@ -3,7 +3,7 @@
     {
       "name": "bash_temp",
       "setup": "",
-      "run": "ls -al #bash ./temperature.sh",
+      "run": "bash ./temperature.sh",
       "input": "32",
       "output": "32.*F.*0.*C",
       "comparison": "regex",
